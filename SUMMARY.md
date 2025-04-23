@@ -36,3 +36,4 @@
     * [2.1.5 通过采样进行模拟](di-er-zhang-la-ji-fen-lei-ji-qi-ren/2.1-shi-jie-zhuang-tai-jian-mo/2.1.5-tong-guo-cai-yang-jin-xing-mo-ni/README.md)
       * [2.1.5.1 累积分布函数](di-er-zhang-la-ji-fen-lei-ji-qi-ren/2.1-shi-jie-zhuang-tai-jian-mo/2.1.5-tong-guo-cai-yang-jin-xing-mo-ni/2.1.5.1-lei-ji-fen-bu-han-shu.md)
       * [2.1.5.2 示例](di-er-zhang-la-ji-fen-lei-ji-qi-ren/2.1-shi-jie-zhuang-tai-jian-mo/2.1.5-tong-guo-cai-yang-jin-xing-mo-ni/2.1.5.2-shi-li.md)
+    * [2.1.6 GTSAM101](di-er-zhang-la-ji-fen-lei-ji-qi-ren/2.1-shi-jie-zhuang-tai-jian-mo/2.1.6-gtsam101.md)
