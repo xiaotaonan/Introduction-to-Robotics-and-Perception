@@ -32,3 +32,4 @@
   * [2.1.2 概率分布](2.1-shi-jie-zhuang-tai-jian-mo/2.1.2-gailfen-bu.md)
   * [2.1.3 先验概率分布](2.1-shi-jie-zhuang-tai-jian-mo/2.1.3-xian-yan-gailfen-bu.md)
   * [2.1.4  Python 中的概率分布](2.1-shi-jie-zhuang-tai-jian-mo/2.1.4-python-zhong-de-gailfen-bu.md)
+  * [2.1.5 通过采样进行模拟](2.1-shi-jie-zhuang-tai-jian-mo/2.1.5-tong-guo-cai-yang-jin-xing-mo-ni.md)
