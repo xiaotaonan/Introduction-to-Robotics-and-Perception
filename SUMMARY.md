@@ -23,3 +23,7 @@
   * [1.3.1 概率论与统计学](di-yi-zhang-jian-jie/1.3-ji-qi-ren-shu-xue/1.3.1-gaillun-yu-tong-ji-xue.md)
   * [1.3.2 线性代数](di-yi-zhang-jian-jie/1.3-ji-qi-ren-shu-xue/1.3.2-xian-xing-dai-shu.md)
   * [1.3.3 优化](di-yi-zhang-jian-jie/1.3-ji-qi-ren-shu-xue/1.3.3-you-hua.md)
+
+***
+
+* [第二章 垃圾分类机器人](di-er-zhang-la-ji-fen-lei-ji-qi-ren.md)
