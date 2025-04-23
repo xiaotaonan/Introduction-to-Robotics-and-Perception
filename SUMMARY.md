@@ -43,3 +43,4 @@
     * [2.2.3 期望](di-er-zhang-la-ji-fen-lei-ji-qi-ren/2.2-la-ji-fen-lei-xing-wei/2.2.3-qi-wang.md)
     * [2.2.4 通过采样进行模拟](di-er-zhang-la-ji-fen-lei-ji-qi-ren/2.2-la-ji-fen-lei-xing-wei/2.2.4-tong-guo-cai-yang-jin-xing-mo-ni.md)
     * [2.2.5 概率论与统计学](di-er-zhang-la-ji-fen-lei-ji-qi-ren/2.2-la-ji-fen-lei-xing-wei/2.2.5-gaillun-yu-tong-ji-xue.md)
+    * [2.2.6 总结](di-er-zhang-la-ji-fen-lei-ji-qi-ren/2.2-la-ji-fen-lei-xing-wei/2.2.6-zong-jie.md)
