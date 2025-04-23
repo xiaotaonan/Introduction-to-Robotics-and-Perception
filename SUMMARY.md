@@ -30,3 +30,4 @@
 * [2.1 世界状态建模](2.1-shi-jie-zhuang-tai-jian-mo/README.md)
   * [2.1.1 使用概率来模拟不确定性](2.1-shi-jie-zhuang-tai-jian-mo/2.1.1-shi-yong-gaillai-mo-ni-bu-que-ding-xing.md)
   * [2.1.2 概率分布](2.1-shi-jie-zhuang-tai-jian-mo/2.1.2-gailfen-bu.md)
+  * [2.1.3 先验概率分布](2.1-shi-jie-zhuang-tai-jian-mo/2.1.3-xian-yan-gailfen-bu.md)
