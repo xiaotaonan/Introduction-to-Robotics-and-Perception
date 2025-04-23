@@ -29,3 +29,4 @@
 * [第二章 垃圾分类机器人](di-er-zhang-la-ji-fen-lei-ji-qi-ren.md)
 * [2.1 世界状态建模](2.1-shi-jie-zhuang-tai-jian-mo/README.md)
   * [2.1.1 使用概率来模拟不确定性](2.1-shi-jie-zhuang-tai-jian-mo/2.1.1-shi-yong-gaillai-mo-ni-bu-que-ding-xing.md)
+  * [2.1.2 概率分别](2.1-shi-jie-zhuang-tai-jian-mo/2.1.2-gailfen-bie.md)
