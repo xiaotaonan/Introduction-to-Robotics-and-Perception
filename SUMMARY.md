@@ -37,4 +37,5 @@
       * [2.1.5.1 累积分布函数](di-er-zhang-la-ji-fen-lei-ji-qi-ren/2.1-shi-jie-zhuang-tai-jian-mo/2.1.5-tong-guo-cai-yang-jin-xing-mo-ni/2.1.5.1-lei-ji-fen-bu-han-shu.md)
       * [2.1.5.2 示例](di-er-zhang-la-ji-fen-lei-ji-qi-ren/2.1-shi-jie-zhuang-tai-jian-mo/2.1.5-tong-guo-cai-yang-jin-xing-mo-ni/2.1.5.2-shi-li.md)
     * [2.1.6 GTSAM101](di-er-zhang-la-ji-fen-lei-ji-qi-ren/2.1-shi-jie-zhuang-tai-jian-mo/2.1.6-gtsam101.md)
-  * [2.2 垃圾分类行为](di-er-zhang-la-ji-fen-lei-ji-qi-ren/2.2-la-ji-fen-lei-xing-wei.md)
+  * [2.2 垃圾分类行为](di-er-zhang-la-ji-fen-lei-ji-qi-ren/2.2-la-ji-fen-lei-xing-wei/README.md)
+    * [2.2.1 建模动作及其效果](di-er-zhang-la-ji-fen-lei-ji-qi-ren/2.2-la-ji-fen-lei-xing-wei/2.2.1-jian-mo-dong-zuo-ji-qi-xiao-guo.md)
