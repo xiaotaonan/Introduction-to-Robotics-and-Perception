@@ -51,3 +51,5 @@
     * [2.3.4 连续值传感器](di-er-zhang-la-ji-fen-lei-ji-qi-ren/2.3-la-ji-fen-lei-chuan-gan-qi/2.3.4-lian-xu-zhi-chuan-gan-qi.md)
     * [2.3.5 通过采样进行模拟](di-er-zhang-la-ji-fen-lei-ji-qi-ren/2.3-la-ji-fen-lei-chuan-gan-qi/2.3.5-tong-guo-cai-yang-jin-xing-mo-ni.md)
     * [2.3.6 模拟多个传感器](di-er-zhang-la-ji-fen-lei-ji-qi-ren/2.3-la-ji-fen-lei-chuan-gan-qi/2.3.6-mo-ni-duo-ge-chuan-gan-qi.md)
+    * [2.3.7 GTSAM 101](di-er-zhang-la-ji-fen-lei-ji-qi-ren/2.3-la-ji-fen-lei-chuan-gan-qi/2.3.7-gtsam-101/README.md)
+      * [2.3.7.1 离散条件](di-er-zhang-la-ji-fen-lei-ji-qi-ren/2.3-la-ji-fen-lei-chuan-gan-qi/2.3.7-gtsam-101/2.3.7.1-li-san-tiao-jian.md)
