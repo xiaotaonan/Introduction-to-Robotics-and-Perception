@@ -70,3 +70,4 @@
       * [2.4.11.1 因素](di-er-zhang-la-ji-fen-lei-ji-qi-ren/2.4-gan-zhi/2.4.11-gtsam-101/2.4.11.1-yin-su.md)
       * [2.4.11.2 枚举和离散值](di-er-zhang-la-ji-fen-lei-ji-qi-ren/2.4-gan-zhi/2.4.11-gtsam-101/2.4.11.2-mei-ju-he-li-san-zhi.md)
       * [2.4.11.3 条件积和因子积](di-er-zhang-la-ji-fen-lei-ji-qi-ren/2.4-gan-zhi/2.4.11-gtsam-101/2.4.11.3-tiao-jian-ji-he-yin-zi-ji.md)
+  * [2.5 决策理论](di-er-zhang-la-ji-fen-lei-ji-qi-ren/2.5-jue-ce-li-lun.md)
