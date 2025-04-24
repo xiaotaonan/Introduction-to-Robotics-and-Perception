@@ -64,3 +64,4 @@
     * [2.4.6 联合分布](di-er-zhang-la-ji-fen-lei-ji-qi-ren/2.4-gan-zhi/2.4.6-lian-he-fen-bu.md)
     * [2.4.7 边际分布](di-er-zhang-la-ji-fen-lei-ji-qi-ren/2.4-gan-zhi/2.4.7-bian-ji-fen-bu.md)
     * [2.4.8 贝叶斯定理](di-er-zhang-la-ji-fen-lei-ji-qi-ren/2.4-gan-zhi/2.4.8-bei-ye-si-ding-li.md)
+    * [2.4.9 MAP 估计](di-er-zhang-la-ji-fen-lei-ji-qi-ren/2.4-gan-zhi/2.4.9-map-gu-ji.md)
