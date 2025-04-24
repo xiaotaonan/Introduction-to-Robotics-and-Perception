@@ -76,4 +76,5 @@
     * [2.5.3 最小化预期成本](di-er-zhang-la-ji-fen-lei-ji-qi-ren/2.5-jue-ce-li-lun/2.5.3-zui-xiao-hua-yu-qi-cheng-ben/README.md)
       * [2.5.3.1 Python 实现](di-er-zhang-la-ji-fen-lei-ji-qi-ren/2.5-jue-ce-li-lun/2.5.3-zui-xiao-hua-yu-qi-cheng-ben/2.5.3.1-python-shi-xian.md)
       * [2.5.4 合并传感器信息](di-er-zhang-la-ji-fen-lei-ji-qi-ren/2.5-jue-ce-li-lun/2.5.3-zui-xiao-hua-yu-qi-cheng-ben/2.5.4-he-bing-chuan-gan-qi-xin-xi.md)
-      * [2.6 学习](di-er-zhang-la-ji-fen-lei-ji-qi-ren/2.5-jue-ce-li-lun/2.5.3-zui-xiao-hua-yu-qi-cheng-ben/2.6-xue-xi.md)
+  * [2.6 学习](di-er-zhang-la-ji-fen-lei-ji-qi-ren/2.6-xue-xi.md)
+  * [2.6.1 估计离散 PMF](di-er-zhang-la-ji-fen-lei-ji-qi-ren/2.6.1-gu-ji-li-san-pmf.md)
