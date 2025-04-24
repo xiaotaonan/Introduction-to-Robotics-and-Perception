@@ -55,3 +55,4 @@
       * [2.3.7.1 离散条件](di-er-zhang-la-ji-fen-lei-ji-qi-ren/2.3-la-ji-fen-lei-chuan-gan-qi/2.3.7-gtsam-101/2.3.7.1-li-san-tiao-jian.md)
       * [2.3.7.2 离散值](di-er-zhang-la-ji-fen-lei-ji-qi-ren/2.3-la-ji-fen-lei-chuan-gan-qi/2.3.7-gtsam-101/2.3.7.2-li-san-zhi.md)
       * [2.3.7.3 采样](di-er-zhang-la-ji-fen-lei-ji-qi-ren/2.3-la-ji-fen-lei-chuan-gan-qi/2.3.7-gtsam-101/2.3.7.3-cai-yang.md)
+      * [2.4 感知](di-er-zhang-la-ji-fen-lei-ji-qi-ren/2.3-la-ji-fen-lei-chuan-gan-qi/2.3.7-gtsam-101/2.4-gan-zhi.md)
