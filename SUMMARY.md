@@ -86,3 +86,4 @@
   * [2.7 章节小结](di-er-zhang-la-ji-fen-lei-ji-qi-ren/2.7-zhang-jie-xiao-jie/README.md)
     * [2.7.1 模型](di-er-zhang-la-ji-fen-lei-ji-qi-ren/2.7-zhang-jie-xiao-jie/2.7.1-mo-xing.md)
     * [2.7.2 推理](di-er-zhang-la-ji-fen-lei-ji-qi-ren/2.7-zhang-jie-xiao-jie/2.7.2-tui-li.md)
+    * [2.7.3 背景和历史](di-er-zhang-la-ji-fen-lei-ji-qi-ren/2.7-zhang-jie-xiao-jie/2.7.3-bei-jing-he-li-shi.md)
