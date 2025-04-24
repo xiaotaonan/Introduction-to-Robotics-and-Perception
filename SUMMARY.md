@@ -47,3 +47,4 @@
   * [2.3 垃圾分类传感器](di-er-zhang-la-ji-fen-lei-ji-qi-ren/2.3-la-ji-fen-lei-chuan-gan-qi/README.md)
     * [2.3.1 二进制传感器](di-er-zhang-la-ji-fen-lei-ji-qi-ren/2.3-la-ji-fen-lei-chuan-gan-qi/2.3.1-er-jin-zhi-chuan-gan-qi.md)
     * [2.3.2 条件概率](di-er-zhang-la-ji-fen-lei-ji-qi-ren/2.3-la-ji-fen-lei-chuan-gan-qi/2.3.2-tiao-jian-gai-l.md)
+    * [2.3.3 多值传感器](di-er-zhang-la-ji-fen-lei-ji-qi-ren/2.3-la-ji-fen-lei-chuan-gan-qi/2.3.3-duo-zhi-chuan-gan-qi.md)
