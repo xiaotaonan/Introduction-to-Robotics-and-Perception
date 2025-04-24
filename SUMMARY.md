@@ -66,5 +66,6 @@
     * [2.4.8 贝叶斯定理](di-er-zhang-la-ji-fen-lei-ji-qi-ren/2.4-gan-zhi/2.4.8-bei-ye-si-ding-li.md)
     * [2.4.9 MAP 估计](di-er-zhang-la-ji-fen-lei-ji-qi-ren/2.4-gan-zhi/2.4.9-map-gu-ji.md)
     * [2.4.10  融合多个测量值](di-er-zhang-la-ji-fen-lei-ji-qi-ren/2.4-gan-zhi/2.4.10-rong-he-duo-ge-ce-liang-zhi.md)
-    * [2.4.11 GTSAM 101](di-er-zhang-la-ji-fen-lei-ji-qi-ren/2.4-gan-zhi/2.4.11-gtsam-101.md)
-    * [2.4.11.1 因素](di-er-zhang-la-ji-fen-lei-ji-qi-ren/2.4-gan-zhi/2.4.11.1-yin-su.md)
+    * [2.4.11 GTSAM 101](di-er-zhang-la-ji-fen-lei-ji-qi-ren/2.4-gan-zhi/2.4.11-gtsam-101/README.md)
+      * [2.4.11.1 因素](di-er-zhang-la-ji-fen-lei-ji-qi-ren/2.4-gan-zhi/2.4.11-gtsam-101/2.4.11.1-yin-su.md)
+      * [2.4.11.2 枚举和离散值](di-er-zhang-la-ji-fen-lei-ji-qi-ren/2.4-gan-zhi/2.4.11-gtsam-101/2.4.11.2-mei-ju-he-li-san-zhi.md)
