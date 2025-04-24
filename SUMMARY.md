@@ -73,3 +73,4 @@
   * [2.5 决策理论](di-er-zhang-la-ji-fen-lei-ji-qi-ren/2.5-jue-ce-li-lun/README.md)
     * [2.5.1 使用先验进行简单的决策](di-er-zhang-la-ji-fen-lei-ji-qi-ren/2.5-jue-ce-li-lun/2.5.1-shi-yong-xian-yan-jin-xing-jian-dan-de-jue-ce.md)
     * [2.5.2 针对最坏情况进行优化](di-er-zhang-la-ji-fen-lei-ji-qi-ren/2.5-jue-ce-li-lun/2.5.2-zhen-dui-zui-huai-qing-kuang-jin-xing-you-hua.md)
+    * [2.5.3 最小化预期成本](di-er-zhang-la-ji-fen-lei-ji-qi-ren/2.5-jue-ce-li-lun/2.5.3-zui-xiao-hua-yu-qi-cheng-ben.md)
