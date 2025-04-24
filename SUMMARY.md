@@ -72,3 +72,4 @@
       * [2.4.11.3 条件积和因子积](di-er-zhang-la-ji-fen-lei-ji-qi-ren/2.4-gan-zhi/2.4.11-gtsam-101/2.4.11.3-tiao-jian-ji-he-yin-zi-ji.md)
   * [2.5 决策理论](di-er-zhang-la-ji-fen-lei-ji-qi-ren/2.5-jue-ce-li-lun/README.md)
     * [2.5.1 使用先验进行简单的决策](di-er-zhang-la-ji-fen-lei-ji-qi-ren/2.5-jue-ce-li-lun/2.5.1-shi-yong-xian-yan-jin-xing-jian-dan-de-jue-ce.md)
+    * [2.5.2 针对最坏情况进行优化](di-er-zhang-la-ji-fen-lei-ji-qi-ren/2.5-jue-ce-li-lun/2.5.2-zhen-dui-zui-huai-qing-kuang-jin-xing-you-hua.md)
