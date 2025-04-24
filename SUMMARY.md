@@ -80,4 +80,5 @@
     * [2.6.1 估计离散 PMF](di-er-zhang-la-ji-fen-lei-ji-qi-ren/2.6-xue-xi/2.6.1-gu-ji-li-san-pmf/README.md)
       * [2.6.1.1 平滑](di-er-zhang-la-ji-fen-lei-ji-qi-ren/2.6-xue-xi/2.6.1-gu-ji-li-san-pmf/2.6.1.1-ping-hua.md)
     * [2.6.2 根据数据建模传感器](di-er-zhang-la-ji-fen-lei-ji-qi-ren/2.6-xue-xi/2.6.2-gen-ju-shu-ju-jian-mo-chuan-gan-qi.md)
-    * [2.6.3 拟合高斯](di-er-zhang-la-ji-fen-lei-ji-qi-ren/2.6-xue-xi/2.6.3-ni-he-gao-si.md)
+    * [2.6.3 拟合高斯](di-er-zhang-la-ji-fen-lei-ji-qi-ren/2.6-xue-xi/2.6.3-ni-he-gao-si/README.md)
+      * [2.6.3.1 比较](di-er-zhang-la-ji-fen-lei-ji-qi-ren/2.6-xue-xi/2.6.3-ni-he-gao-si/2.6.3.1-bi-jiao.md)

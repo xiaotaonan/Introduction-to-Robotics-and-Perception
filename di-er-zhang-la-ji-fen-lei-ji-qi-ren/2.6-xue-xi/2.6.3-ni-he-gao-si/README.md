@@ -38,7 +38,7 @@ nbins = N//10
 px.histogram(x=data, nbins=nbins)
 ```
 
-<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 样本均值很容易用 `np.mean` 计算：
 
