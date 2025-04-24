@@ -83,4 +83,5 @@
     * [2.6.3 拟合高斯](di-er-zhang-la-ji-fen-lei-ji-qi-ren/2.6-xue-xi/2.6.3-ni-he-gao-si/README.md)
       * [2.6.3.1 比较](di-er-zhang-la-ji-fen-lei-ji-qi-ren/2.6-xue-xi/2.6.3-ni-he-gao-si/2.6.3.1-bi-jiao.md)
     * [2.6.4 总结](di-er-zhang-la-ji-fen-lei-ji-qi-ren/2.6-xue-xi/2.6.4-zong-jie.md)
-    * [2.7 章节小结](di-er-zhang-la-ji-fen-lei-ji-qi-ren/2.6-xue-xi/2.7-zhang-jie-xiao-jie.md)
+  * [2.7 章节小结](di-er-zhang-la-ji-fen-lei-ji-qi-ren/2.7-zhang-jie-xiao-jie.md)
+  * [2.7.1 模型](di-er-zhang-la-ji-fen-lei-ji-qi-ren/2.7.1-mo-xing.md)
