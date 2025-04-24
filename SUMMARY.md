@@ -59,3 +59,4 @@
     * [2.4.1 最大似然法](di-er-zhang-la-ji-fen-lei-ji-qi-ren/2.4.1-zui-da-si-ran-fa.md)
     * [2.4.2 似然函数](di-er-zhang-la-ji-fen-lei-ji-qi-ren/2.4-gan-zhi/2.4.2-si-ran-han-shu.md)
     * [2.4.3 探索可能性](di-er-zhang-la-ji-fen-lei-ji-qi-ren/2.4-gan-zhi/2.4.3-tan-suo-ke-neng-xing.md)
+    * [2.4.4 离散传感器的可能性](di-er-zhang-la-ji-fen-lei-ji-qi-ren/2.4-gan-zhi/2.4.4-li-san-chuan-gan-qi-de-ke-neng-xing.md)
