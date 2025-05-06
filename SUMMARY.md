@@ -93,3 +93,4 @@
     * [3.1.2. 扫地机器人的状态空间](di-san-zhang-ji-qi-ren-xi-chen-qi/3.1.-dui-sao-di-ji-qi-ren-de-zhuang-tai-jin-xing-jian-mo/3.1.2.-sao-di-ji-qi-ren-de-zhuang-tai-kong-jian.md)
     * [3.1.3. 贝叶斯 vs. 概率论解释或概率](di-san-zhang-ji-qi-ren-xi-chen-qi/3.1.-dui-sao-di-ji-qi-ren-de-zhuang-tai-jin-xing-jian-mo/3.1.3.-bei-ye-si-vs.-gaillun-jie-shi-huo-gai-l.md)
     * [3.1.4. GTSAM 101](di-san-zhang-ji-qi-ren-xi-chen-qi/3.1.-dui-sao-di-ji-qi-ren-de-zhuang-tai-jin-xing-jian-mo/3.1.4.-gtsam-101.md)
+  * [3.2. 随时间推移的操作](di-san-zhang-ji-qi-ren-xi-chen-qi/3.2.-sui-shi-jian-tui-yi-de-cao-zuo.md)
