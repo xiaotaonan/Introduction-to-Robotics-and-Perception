@@ -87,4 +87,5 @@
     * [2.7.1 模型](di-er-zhang-la-ji-fen-lei-ji-qi-ren/2.7-zhang-jie-xiao-jie/2.7.1-mo-xing.md)
     * [2.7.2 推理](di-er-zhang-la-ji-fen-lei-ji-qi-ren/2.7-zhang-jie-xiao-jie/2.7.2-tui-li.md)
     * [2.7.3 背景和历史](di-er-zhang-la-ji-fen-lei-ji-qi-ren/2.7-zhang-jie-xiao-jie/2.7.3-bei-jing-he-li-shi.md)
-* [第三章 机器人吸尘器](di-san-zhang-ji-qi-ren-xi-chen-qi.md)
+* [第三章 机器人吸尘器](di-san-zhang-ji-qi-ren-xi-chen-qi/README.md)
+  * [3.1. 对扫地机器人的状态进行建模](di-san-zhang-ji-qi-ren-xi-chen-qi/3.1.-dui-sao-di-ji-qi-ren-de-zhuang-tai-jin-xing-jian-mo.md)
