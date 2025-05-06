@@ -90,3 +90,4 @@
 * [第三章 机器人吸尘器](di-san-zhang-ji-qi-ren-xi-chen-qi.md)
   * [3.1. 对扫地机器人的状态进行建模](di-san-zhang-ji-qi-ren-xi-chen-qi/3.1.-dui-sao-di-ji-qi-ren-de-zhuang-tai-jin-xing-jian-mo/README.md)
     * [3.1.1. 定义机器人的状态](di-san-zhang-ji-qi-ren-xi-chen-qi/3.1.-dui-sao-di-ji-qi-ren-de-zhuang-tai-jin-xing-jian-mo/3.1.1.-ding-yi-ji-qi-ren-de-zhuang-tai.md)
+    * [3.1.2. 扫地机器人的状态空间](di-san-zhang-ji-qi-ren-xi-chen-qi/3.1.-dui-sao-di-ji-qi-ren-de-zhuang-tai-jin-xing-jian-mo/3.1.2.-sao-di-ji-qi-ren-de-zhuang-tai-kong-jian.md)
