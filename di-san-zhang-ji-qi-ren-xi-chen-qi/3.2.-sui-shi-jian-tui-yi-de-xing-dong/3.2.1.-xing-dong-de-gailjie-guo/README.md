@@ -2,11 +2,11 @@
 
 > 行动是不确定的。
 
-<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption><p>图2 在泥泞中行驶的移动机器人。</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (14).png" alt=""><figcaption><p>图2 在泥泞中行驶的移动机器人。</p></figcaption></figure>
 
 在现实世界中，由于各种原因，机器人并不总是完美地执行动作。例如，如图 2 所示，机器人可能会尝试在户外环境中向前行驶，但车轮下的泥土可能会阻止它按预期行驶。
 
-<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption><p>图3 一个人形生物试图捡起一个物体。</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (15).png" alt=""><figcaption><p>图3 一个人形生物试图捡起一个物体。</p></figcaption></figure>
 
 或者，具有关节臂的机器人（图 3）可能会尝试拾取物体，但失败了。有些物体比其他物体更容易抓握，而且机器人抓手不如人的手灵巧，所以这并不是什么罕见的事情。
 

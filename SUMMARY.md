@@ -94,4 +94,5 @@
     * [3.1.3. 贝叶斯 vs. 概率论解释或概率](di-san-zhang-ji-qi-ren-xi-chen-qi/3.1.-dui-sao-di-ji-qi-ren-de-zhuang-tai-jin-xing-jian-mo/3.1.3.-bei-ye-si-vs.-gaillun-jie-shi-huo-gai-l.md)
     * [3.1.4. GTSAM 101](di-san-zhang-ji-qi-ren-xi-chen-qi/3.1.-dui-sao-di-ji-qi-ren-de-zhuang-tai-jin-xing-jian-mo/3.1.4.-gtsam-101.md)
   * [3.2. 随时间推移的行动](di-san-zhang-ji-qi-ren-xi-chen-qi/3.2.-sui-shi-jian-tui-yi-de-xing-dong/README.md)
-    * [3.2.1. 行动的概率结果](di-san-zhang-ji-qi-ren-xi-chen-qi/3.2.-sui-shi-jian-tui-yi-de-xing-dong/3.2.1.-xing-dong-de-gailjie-guo.md)
+    * [3.2.1. 行动的概率结果](di-san-zhang-ji-qi-ren-xi-chen-qi/3.2.-sui-shi-jian-tui-yi-de-xing-dong/3.2.1.-xing-dong-de-gailjie-guo/README.md)
+      * [3.2.1.1. 练习](di-san-zhang-ji-qi-ren-xi-chen-qi/3.2.-sui-shi-jian-tui-yi-de-xing-dong/3.2.1.-xing-dong-de-gailjie-guo/3.2.1.1.-lian-xi.md)
