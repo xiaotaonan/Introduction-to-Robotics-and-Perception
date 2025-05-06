@@ -96,3 +96,4 @@
   * [3.2. 随时间推移的行动](di-san-zhang-ji-qi-ren-xi-chen-qi/3.2.-sui-shi-jian-tui-yi-de-xing-dong/README.md)
     * [3.2.1. 行动的概率结果](di-san-zhang-ji-qi-ren-xi-chen-qi/3.2.-sui-shi-jian-tui-yi-de-xing-dong/3.2.1.-xing-dong-de-gailjie-guo/README.md)
       * [3.2.1.1. 练习](di-san-zhang-ji-qi-ren-xi-chen-qi/3.2.-sui-shi-jian-tui-yi-de-xing-dong/3.2.1.-xing-dong-de-gailjie-guo/3.2.1.1.-lian-xi.md)
+    * [3.2.2. 了解动作序列](di-san-zhang-ji-qi-ren-xi-chen-qi/3.2.-sui-shi-jian-tui-yi-de-xing-dong/3.2.2.-liao-jie-dong-zuo-xu-lie.md)
