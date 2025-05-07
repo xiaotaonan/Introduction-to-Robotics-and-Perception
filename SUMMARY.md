@@ -107,3 +107,4 @@
       * [3.2.6.1. 练习](di-san-zhang-ji-qi-ren-xi-chen-qi/3.2.-sui-shi-jian-tui-yi-de-xing-dong/3.2.6.-bei-ye-si-wang-luo/3.2.6.1.-lian-xi.md)
     * [3.2.7. 因式分解状态表示](di-san-zhang-ji-qi-ren-xi-chen-qi/3.2.-sui-shi-jian-tui-yi-de-xing-dong/3.2.7.-yin-shi-fen-jie-zhuang-tai-biao-shi/README.md)
       * [3.2.7.1. 练习](di-san-zhang-ji-qi-ren-xi-chen-qi/3.2.-sui-shi-jian-tui-yi-de-xing-dong/3.2.7.-yin-shi-fen-jie-zhuang-tai-biao-shi/3.2.7.1.-lian-xi.md)
+    * [3.2.8. GTSAM 101](di-san-zhang-ji-qi-ren-xi-chen-qi/3.2.-sui-shi-jian-tui-yi-de-xing-dong/3.2.8.-gtsam-101.md)
