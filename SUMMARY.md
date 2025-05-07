@@ -97,5 +97,6 @@
     * [3.2.1. 行动的概率结果](di-san-zhang-ji-qi-ren-xi-chen-qi/3.2.-sui-shi-jian-tui-yi-de-xing-dong/3.2.1.-xing-dong-de-gailjie-guo/README.md)
       * [3.2.1.1. 练习](di-san-zhang-ji-qi-ren-xi-chen-qi/3.2.-sui-shi-jian-tui-yi-de-xing-dong/3.2.1.-xing-dong-de-gailjie-guo/3.2.1.1.-lian-xi.md)
     * [3.2.2. 了解动作序列](di-san-zhang-ji-qi-ren-xi-chen-qi/3.2.-sui-shi-jian-tui-yi-de-xing-dong/3.2.2.-liao-jie-dong-zuo-xu-lie.md)
-    * [3.2.3. 状态转换矩阵和置信状态](di-san-zhang-ji-qi-ren-xi-chen-qi/3.2.-sui-shi-jian-tui-yi-de-xing-dong/3.2.3.-zhuang-tai-zhuan-huan-ju-zhen-he-zhi-xin-zhuang-tai/README.md)
+    * [3.2.3. 状态转换矩阵和置信状态](di-san-zhang-ji-qi-ren-xi-chen-qi/3.2.-sui-shi-jian-tui-yi-de-xing-dong/3.2.3.-zhuang-tai-zhuan-huan-ju-zhen-he-zhi-xin-zhuang-tai.md)
       * [3.2.3.1. 练习](di-san-zhang-ji-qi-ren-xi-chen-qi/3.2.-sui-shi-jian-tui-yi-de-xing-dong/3.2.3.-zhuang-tai-zhuan-huan-ju-zhen-he-zhi-xin-zhuang-tai/3.2.3.1.-lian-xi.md)
+    * [3.2.4. 受控马尔可夫链](di-san-zhang-ji-qi-ren-xi-chen-qi/3.2.-sui-shi-jian-tui-yi-de-xing-dong/3.2.4.-shou-kong-ma-er-ke-fu-lian.md)
