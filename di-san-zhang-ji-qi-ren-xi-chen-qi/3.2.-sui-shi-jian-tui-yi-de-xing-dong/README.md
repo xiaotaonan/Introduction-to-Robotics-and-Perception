@@ -8,6 +8,6 @@
 
 在我们的例子中，我们假设我们的机器人配备了导航软件，它实现了四个原始动作：向左移动、向右移动、向上移动、向下移动，我们将用 L、R、U、D 表示。这四个动作一起定义了动作空间。这些动作的名义效应（即不考虑不确定性的动作效应）是根据动作指定的方向将机器人从当前房间移动到相邻房间。例如，从客厅执行 move down 作应该会将机器人带入走廊。
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>图1 我们的机器人配备了四个原始动作：左、右、上和下。</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>图1 我们的机器人配备了四个原始动作：左、右、上和下。</p></figcaption></figure>
 
 我们可以通过对上一节中的状态空间图进行轻微修改来以图形方式表示这些作。每个作都贡献一条有向边，而不是使用无向边来表示邻接，如图 1 所示。请注意，为了简化表示法，我们使用 L、R、U、D 而不是 move left、move right、move up、move down 来标记边缘。
