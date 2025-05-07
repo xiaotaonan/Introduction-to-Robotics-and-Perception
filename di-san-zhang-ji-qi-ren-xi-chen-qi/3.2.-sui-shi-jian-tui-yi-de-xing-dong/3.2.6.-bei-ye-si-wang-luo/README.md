@@ -21,7 +21,7 @@ wxyz.add(Z1, "1/1")
 show(wxyz)
 ```
 
-<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
 图 11 中的示例贝叶斯网只是哪些随机变量的 CPT（条件概率表）取决于哪些其他变量的图形表示。从形式上讲，在贝叶斯网络中，一组随机变量$$X_1,\dots,X_n$$的联合概率分布$$P(X_1,\dots,X_n)$$可以计算为与每个单个变量$$X_i$$关联的$$n$$条件概率的乘积，如下所示：
 

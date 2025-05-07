@@ -103,4 +103,5 @@
       * [3.2.4.1. 练习](di-san-zhang-ji-qi-ren-xi-chen-qi/3.2.-sui-shi-jian-tui-yi-de-xing-dong/3.2.4.-shou-kong-ma-er-ke-fu-lian/3.2.4.1.-lian-xi.md)
     * [3.2.5. 正向模拟](di-san-zhang-ji-qi-ren-xi-chen-qi/3.2.-sui-shi-jian-tui-yi-de-xing-dong/3.2.5.-zheng-xiang-mo-ni/README.md)
       * [3.2.5.1. 练习](di-san-zhang-ji-qi-ren-xi-chen-qi/3.2.-sui-shi-jian-tui-yi-de-xing-dong/3.2.5.-zheng-xiang-mo-ni/3.2.5.1.-lian-xi.md)
-    * [3.2.6. 贝叶斯网络](di-san-zhang-ji-qi-ren-xi-chen-qi/3.2.-sui-shi-jian-tui-yi-de-xing-dong/3.2.6.-bei-ye-si-wang-luo.md)
+    * [3.2.6. 贝叶斯网络](di-san-zhang-ji-qi-ren-xi-chen-qi/3.2.-sui-shi-jian-tui-yi-de-xing-dong/3.2.6.-bei-ye-si-wang-luo/README.md)
+      * [3.2.6.1. 练习](di-san-zhang-ji-qi-ren-xi-chen-qi/3.2.-sui-shi-jian-tui-yi-de-xing-dong/3.2.6.-bei-ye-si-wang-luo/3.2.6.1.-lian-xi.md)
