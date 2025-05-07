@@ -10,7 +10,7 @@ $$b_{k+1}= \begin{bmatrix} P(X_{k+1}=L|a_1:k) \\ P(X_{k+1}=K|a_1:k) \\ P(X_{k+1}
 
 我们可以通过将条件概率表写成过渡矩阵，以紧凑的形式写出信念状态的方程。为此，对于每个作，我们只是将完备条件概率表中的相应行收集到一个状态转换矩阵中。对于动作 move right，这在下面的图 5 中进行了说明。
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>图4 动作 <em>move right</em> 的过渡矩阵。</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>图4 动作 <em>move right</em> 的过渡矩阵。</p></figcaption></figure>
 
 如果我们将动作 move right 应用于初始状态，通过简单的计算，我们可以看到$$b_2=b_1M_r$$，即一个简单的向量矩阵乘法。这可以推广为一系列作。如果我们在时间步$$k$$执行 action$$A_k$$，则信念状态$$b_{k+1}$$\
 由下式给出:
