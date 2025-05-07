@@ -34,6 +34,6 @@ for k in range(1, N):
 show(factored, hints={"A":2, "X":1, "B":0}, boxes={A[1][0],A[2][0]})
 ```
 
-<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
 你可以看到，在选择的转换模型下，现在有马尔可夫链，当给定动作序列时，这些链是独立的。
