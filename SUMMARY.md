@@ -117,3 +117,4 @@
       * [3.3.4.1. 练习](di-san-zhang-ji-qi-ren-xi-chen-qi/3.3.-dong-tai-bei-ye-si-wang-luo/3.3.4.-ji-qi-ren-de-mo-ni/3.3.4.1.-lian-xi.md)
     * [3.3.5. 使用 GTSAM 进行祖先采样](di-san-zhang-ji-qi-ren-xi-chen-qi/3.3.-dong-tai-bei-ye-si-wang-luo/3.3.5.-shi-yong-gtsam-jin-xing-zu-xian-cai-yang/README.md)
       * [3.3.5.1. 练习](di-san-zhang-ji-qi-ren-xi-chen-qi/3.3.-dong-tai-bei-ye-si-wang-luo/3.3.5.-shi-yong-gtsam-jin-xing-zu-xian-cai-yang/3.3.5.1.-lian-xi.md)
+    * [3.3.6. GTSAM 101](di-san-zhang-ji-qi-ren-xi-chen-qi/3.3.-dong-tai-bei-ye-si-wang-luo/3.3.6.-gtsam-101.md)
