@@ -122,3 +122,4 @@
     * [3.4.1. 贝叶斯网络中的推理](di-san-zhang-ji-qi-ren-xi-chen-qi/3.4.-shi-yong-tu-xing-mo-xing-de-gan-zhi/3.4.1.-bei-ye-si-wang-luo-zhong-de-tui-li.md)
       * [3.4.1.1.完全后验推理](di-san-zhang-ji-qi-ren-xi-chen-qi/3.4.-shi-yong-tu-xing-mo-xing-de-gan-zhi/3.4.1.-bei-ye-si-wang-luo-zhong-de-tui-li/3.4.1.1.-wan-quan-hou-yan-tui-li.md)
       * [3.4.1.2. 练习](di-san-zhang-ji-qi-ren-xi-chen-qi/3.4.-shi-yong-tu-xing-mo-xing-de-gan-zhi/3.4.1.-bei-ye-si-wang-luo-zhong-de-tui-li/3.4.1.2.-lian-xi.md)
+      * [3.4.1.3. 最大后验估计](di-san-zhang-ji-qi-ren-xi-chen-qi/3.4.-shi-yong-tu-xing-mo-xing-de-gan-zhi/3.4.1.-bei-ye-si-wang-luo-zhong-de-tui-li/3.4.1.3.-zui-da-hou-yan-gu-ji.md)
