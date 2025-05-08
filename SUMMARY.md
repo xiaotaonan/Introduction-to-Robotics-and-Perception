@@ -124,5 +124,6 @@
       * [3.4.1.2. 练习](di-san-zhang-ji-qi-ren-xi-chen-qi/3.4.-shi-yong-tu-xing-mo-xing-de-gan-zhi/3.4.1.-bei-ye-si-wang-luo-zhong-de-tui-li/3.4.1.2.-lian-xi.md)
       * [3.4.1.3. 最大后验估计](di-san-zhang-ji-qi-ren-xi-chen-qi/3.4.-shi-yong-tu-xing-mo-xing-de-gan-zhi/3.4.1.-bei-ye-si-wang-luo-zhong-de-tui-li/3.4.1.3.-zui-da-hou-yan-gu-ji.md)
       * [3.4.1.4. 练习](di-san-zhang-ji-qi-ren-xi-chen-qi/3.4.-shi-yong-tu-xing-mo-xing-de-gan-zhi/3.4.1.-bei-ye-si-wang-luo-zhong-de-tui-li/3.4.1.4.-lian-xi.md)
-    * [3.4.2. 隐马尔可夫模型](di-san-zhang-ji-qi-ren-xi-chen-qi/3.4.-shi-yong-tu-xing-mo-xing-de-gan-zhi/3.4.2.-yin-ma-er-ke-fu-mo-xing.md)
-    * [3.4.2.1. 示例：描述 robot 的 HMM](di-san-zhang-ji-qi-ren-xi-chen-qi/3.4.-shi-yong-tu-xing-mo-xing-de-gan-zhi/3.4.2.1.-shi-li-miao-shu-robot-de-hmm.md)
+    * [3.4.2. 隐马尔可夫模型](di-san-zhang-ji-qi-ren-xi-chen-qi/3.4.-shi-yong-tu-xing-mo-xing-de-gan-zhi/3.4.2.-yin-ma-er-ke-fu-mo-xing/README.md)
+      * [3.4.2.1. 示例：描述 robot 的 HMM](di-san-zhang-ji-qi-ren-xi-chen-qi/3.4.-shi-yong-tu-xing-mo-xing-de-gan-zhi/3.4.2.-yin-ma-er-ke-fu-mo-xing/3.4.2.1.-shi-li-miao-shu-robot-de-hmm.md)
+    * [3.4.3. HMM 中的朴素推理](di-san-zhang-ji-qi-ren-xi-chen-qi/3.4.-shi-yong-tu-xing-mo-xing-de-gan-zhi/3.4.3.-hmm-zhong-de-pu-su-tui-li.md)
