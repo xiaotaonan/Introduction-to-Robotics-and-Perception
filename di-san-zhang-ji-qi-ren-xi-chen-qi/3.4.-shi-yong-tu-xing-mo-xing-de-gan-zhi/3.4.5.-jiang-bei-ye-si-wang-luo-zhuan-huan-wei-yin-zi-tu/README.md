@@ -2,8 +2,8 @@
 
 > 将贝叶斯网络转换为因子图是很简单的。
 
-<figure><img src="../../.gitbook/assets/image (22).png" alt=""><figcaption><p>图3 HMM 的贝叶斯网络表示形式。</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (22).png" alt=""><figcaption><p>图3 HMM 的贝叶斯网络表示形式。</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption><p>图4 将上面的 HMM 转换为因子图，其中测量值是已知的。</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (23).png" alt=""><figcaption><p>图4 将上面的 HMM 转换为因子图，其中测量值是已知的。</p></figcaption></figure>
 
 每个贝叶斯网络都可以简单地转换为因子图，如上所示。回想一下，贝叶斯网络中的每个节点都表示相应变量及其父节点上的条件密度。因此，转换非常简单：每个贝叶斯网络节点都映射到相应因子图中的变量节点和因子节点。该因子连接到变量节点，以及与贝叶斯网络中父节点对应的变量节点。如果贝叶斯网络中的某些节点是证据节点，即它们被指定为已知变量，我们省略相应的变量节点：已知变量只是成为相应因子中的固定参数。

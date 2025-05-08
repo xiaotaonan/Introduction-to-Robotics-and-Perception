@@ -128,4 +128,5 @@
       * [3.4.2.1. 示例：描述 robot 的 HMM](di-san-zhang-ji-qi-ren-xi-chen-qi/3.4.-shi-yong-tu-xing-mo-xing-de-gan-zhi/3.4.2.-yin-ma-er-ke-fu-mo-xing/3.4.2.1.-shi-li-miao-shu-robot-de-hmm.md)
     * [3.4.3. HMM 中的朴素推理](di-san-zhang-ji-qi-ren-xi-chen-qi/3.4.-shi-yong-tu-xing-mo-xing-de-gan-zhi/3.4.3.-hmm-zhong-de-pu-su-tui-li.md)
     * [3.4.4. 因子图](di-san-zhang-ji-qi-ren-xi-chen-qi/3.4.-shi-yong-tu-xing-mo-xing-de-gan-zhi/3.4.4.-yin-zi-tu.md)
-    * [3.4.5. 将贝叶斯网络转换为因子图](di-san-zhang-ji-qi-ren-xi-chen-qi/3.4.-shi-yong-tu-xing-mo-xing-de-gan-zhi/3.4.5.-jiang-bei-ye-si-wang-luo-zhuan-huan-wei-yin-zi-tu.md)
+    * [3.4.5. 将贝叶斯网络转换为因子图](di-san-zhang-ji-qi-ren-xi-chen-qi/3.4.-shi-yong-tu-xing-mo-xing-de-gan-zhi/3.4.5.-jiang-bei-ye-si-wang-luo-zhuan-huan-wei-yin-zi-tu/README.md)
+      * [3.4.5.1. 练习](di-san-zhang-ji-qi-ren-xi-chen-qi/3.4.-shi-yong-tu-xing-mo-xing-de-gan-zhi/3.4.5.-jiang-bei-ye-si-wang-luo-zhuan-huan-wei-yin-zi-tu/3.4.5.1.-lian-xi.md)
