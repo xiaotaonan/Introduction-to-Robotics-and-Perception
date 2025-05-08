@@ -118,3 +118,4 @@
     * [3.3.5. 使用 GTSAM 进行祖先采样](di-san-zhang-ji-qi-ren-xi-chen-qi/3.3.-dong-tai-bei-ye-si-wang-luo/3.3.5.-shi-yong-gtsam-jin-xing-zu-xian-cai-yang/README.md)
       * [3.3.5.1. 练习](di-san-zhang-ji-qi-ren-xi-chen-qi/3.3.-dong-tai-bei-ye-si-wang-luo/3.3.5.-shi-yong-gtsam-jin-xing-zu-xian-cai-yang/3.3.5.1.-lian-xi.md)
     * [3.3.6. GTSAM 101](di-san-zhang-ji-qi-ren-xi-chen-qi/3.3.-dong-tai-bei-ye-si-wang-luo/3.3.6.-gtsam-101.md)
+  * [3.4. 使用图形模型的感知](di-san-zhang-ji-qi-ren-xi-chen-qi/3.4.-shi-yong-tu-xing-mo-xing-de-gan-zhi.md)
