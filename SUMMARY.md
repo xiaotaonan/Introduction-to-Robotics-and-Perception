@@ -111,3 +111,4 @@
   * [3.3. 动态贝叶斯网络](di-san-zhang-ji-qi-ren-xi-chen-qi/3.3.-dong-tai-bei-ye-si-wang-luo/README.md)
     * [3.3.1. 传感器模型](di-san-zhang-ji-qi-ren-xi-chen-qi/3.3.-dong-tai-bei-ye-si-wang-luo/3.3.1.-chuan-gan-qi-mo-xing/README.md)
       * [3.3.1.1. 练习](di-san-zhang-ji-qi-ren-xi-chen-qi/3.3.-dong-tai-bei-ye-si-wang-luo/3.3.1.-chuan-gan-qi-mo-xing/3.3.1.1.-lian-xi.md)
+    * [3.3.2. 动态贝叶斯网络简介](di-san-zhang-ji-qi-ren-xi-chen-qi/3.3.-dong-tai-bei-ye-si-wang-luo/3.3.2.-dong-tai-bei-ye-si-wang-luo-jian-jie.md)
