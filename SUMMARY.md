@@ -139,4 +139,5 @@
     * [3.4.11. 采样和后验均值\*](di-san-zhang-ji-qi-ren-xi-chen-qi/3.4.-shi-yong-tu-xing-mo-xing-de-gan-zhi/3.4.11.-cai-yang-he-hou-yan-jun-zhi/README.md)
       * [3.4.11.1. 练习](di-san-zhang-ji-qi-ren-xi-chen-qi/3.4.-shi-yong-tu-xing-mo-xing-de-gan-zhi/3.4.11.-cai-yang-he-hou-yan-jun-zhi/3.4.11.1.-lian-xi.md)
     * [3.4.12. GTSAM 101](di-san-zhang-ji-qi-ren-xi-chen-qi/3.4.-shi-yong-tu-xing-mo-xing-de-gan-zhi/3.4.12.-gtsam-101.md)
-  * [3.5. 马尔可夫决策过程](di-san-zhang-ji-qi-ren-xi-chen-qi/3.5.-ma-er-ke-fu-jue-ce-guo-cheng.md)
+  * [3.5. 马尔可夫决策过程](di-san-zhang-ji-qi-ren-xi-chen-qi/3.5.-ma-er-ke-fu-jue-ce-guo-cheng/README.md)
+    * [3.5.1. 奖励函数](di-san-zhang-ji-qi-ren-xi-chen-qi/3.5.-ma-er-ke-fu-jue-ce-guo-cheng/3.5.1.-jiang-li-han-shu.md)
