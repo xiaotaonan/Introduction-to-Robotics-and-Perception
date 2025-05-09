@@ -130,3 +130,4 @@
     * [3.4.4. 因子图](di-san-zhang-ji-qi-ren-xi-chen-qi/3.4.-shi-yong-tu-xing-mo-xing-de-gan-zhi/3.4.4.-yin-zi-tu.md)
     * [3.4.5. 将贝叶斯网络转换为因子图](di-san-zhang-ji-qi-ren-xi-chen-qi/3.4.-shi-yong-tu-xing-mo-xing-de-gan-zhi/3.4.5.-jiang-bei-ye-si-wang-luo-zhuan-huan-wei-yin-zi-tu/README.md)
       * [3.4.5.1. 练习](di-san-zhang-ji-qi-ren-xi-chen-qi/3.4.-shi-yong-tu-xing-mo-xing-de-gan-zhi/3.4.5.-jiang-bei-ye-si-wang-luo-zhuan-huan-wei-yin-zi-tu/3.4.5.1.-lian-xi.md)
+    * [3.4.6. GTSAM 中的因子图](di-san-zhang-ji-qi-ren-xi-chen-qi/3.4.-shi-yong-tu-xing-mo-xing-de-gan-zhi/3.4.6.-gtsam-zhong-de-yin-zi-tu.md)
