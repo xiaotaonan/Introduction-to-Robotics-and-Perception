@@ -132,5 +132,6 @@
       * [3.4.5.1. 练习](di-san-zhang-ji-qi-ren-xi-chen-qi/3.4.-shi-yong-tu-xing-mo-xing-de-gan-zhi/3.4.5.-jiang-bei-ye-si-wang-luo-zhuan-huan-wei-yin-zi-tu/3.4.5.1.-lian-xi.md)
     * [3.4.6. GTSAM 中的因子图](di-san-zhang-ji-qi-ren-xi-chen-qi/3.4.-shi-yong-tu-xing-mo-xing-de-gan-zhi/3.4.6.-gtsam-zhong-de-yin-zi-tu.md)
     * [3.4.7. 使用因子图进行计算](di-san-zhang-ji-qi-ren-xi-chen-qi/3.4.-shi-yong-tu-xing-mo-xing-de-gan-zhi/3.4.7.-shi-yong-yin-zi-tu-jin-xing-ji-suan.md)
-    * [3.4.8. HMM 的 max-product 算法](di-san-zhang-ji-qi-ren-xi-chen-qi/3.4.-shi-yong-tu-xing-mo-xing-de-gan-zhi/3.4.8.-hmm-de-maxproduct-suan-fa/README.md)
+    * [3.4.8. HMM 的 max-product 算法](di-san-zhang-ji-qi-ren-xi-chen-qi/3.4.-shi-yong-tu-xing-mo-xing-de-gan-zhi/3.4.8.-hmm-de-maxproduct-suan-fa.md)
       * [3.4.8.1. GTSAM 中的最大乘积](di-san-zhang-ji-qi-ren-xi-chen-qi/3.4.-shi-yong-tu-xing-mo-xing-de-gan-zhi/3.4.8.-hmm-de-maxproduct-suan-fa/3.4.8.1.-gtsam-zhong-de-zui-da-cheng-ji.md)
+    * [3.4.9. HMM 的 Sum-Product 算法](di-san-zhang-ji-qi-ren-xi-chen-qi/3.4.-shi-yong-tu-xing-mo-xing-de-gan-zhi/3.4.9.-hmm-de-sumproduct-suan-fa.md)
