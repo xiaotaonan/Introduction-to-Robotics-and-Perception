@@ -150,3 +150,4 @@
       * [3.5.6.1. 思维练习](di-san-zhang-ji-qi-ren-xi-chen-qi/3.5.-ma-er-ke-fu-jue-ce-guo-cheng/3.5.6.-value-han-shu-zhen-dui-gei-ding-ce-le/3.5.6.1.-si-wei-lian-xi.md)
     * [3.5.7. 逼近 Value 函数](di-san-zhang-ji-qi-ren-xi-chen-qi/3.5.-ma-er-ke-fu-jue-ce-guo-cheng/3.5.7.-bi-jin-value-han-shu.md)
     * [3.5.8. 计算值函数](di-san-zhang-ji-qi-ren-xi-chen-qi/3.5.-ma-er-ke-fu-jue-ce-guo-cheng/3.5.8.-ji-suan-zhi-han-shu.md)
+    * [3.5.8.1. 练习](di-san-zhang-ji-qi-ren-xi-chen-qi/3.5.-ma-er-ke-fu-jue-ce-guo-cheng/3.5.8.1.-lian-xi.md)
