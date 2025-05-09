@@ -136,3 +136,4 @@
       * [3.4.8.1. GTSAM 中的最大乘积](di-san-zhang-ji-qi-ren-xi-chen-qi/3.4.-shi-yong-tu-xing-mo-xing-de-gan-zhi/3.4.8.-hmm-de-maxproduct-suan-fa/3.4.8.1.-gtsam-zhong-de-zui-da-cheng-ji.md)
     * [3.4.9. HMM 的 Sum-Product 算法](di-san-zhang-ji-qi-ren-xi-chen-qi/3.4.-shi-yong-tu-xing-mo-xing-de-gan-zhi/3.4.9.-hmm-de-sumproduct-suan-fa.md)
     * [3.4.10. GTSAM 中的 sum-product](di-san-zhang-ji-qi-ren-xi-chen-qi/3.4.-shi-yong-tu-xing-mo-xing-de-gan-zhi/3.4.10.-gtsam-zhong-de-sumproduct.md)
+    * [3.4.11. 采样和后验均值\*](di-san-zhang-ji-qi-ren-xi-chen-qi/3.4.-shi-yong-tu-xing-mo-xing-de-gan-zhi/3.4.11.-cai-yang-he-hou-yan-jun-zhi.md)
