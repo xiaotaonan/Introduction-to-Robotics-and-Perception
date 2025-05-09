@@ -146,3 +146,4 @@
     * [3.5.4.使用控制带展开来近似预期效用](di-san-zhang-ji-qi-ren-xi-chen-qi/3.5.-ma-er-ke-fu-jue-ce-guo-cheng/3.5.4.-shi-yong-kong-zhi-dai-zhan-kai-lai-jin-si-yu-qi-xiao-yong/README.md)
       * [3.5.4.1. 练习](di-san-zhang-ji-qi-ren-xi-chen-qi/3.5.-ma-er-ke-fu-jue-ce-guo-cheng/3.5.4.-shi-yong-kong-zhi-dai-zhan-kai-lai-jin-si-yu-qi-xiao-yong/3.5.4.1.-lian-xi.md)
     * [3.5.5. 策略](di-san-zhang-ji-qi-ren-xi-chen-qi/3.5.-ma-er-ke-fu-jue-ce-guo-cheng/3.5.5.-ce-le.md)
+    * [3.5.6. Value 函数（针对给定策略）](di-san-zhang-ji-qi-ren-xi-chen-qi/3.5.-ma-er-ke-fu-jue-ce-guo-cheng/3.5.6.-value-han-shu-zhen-dui-gei-ding-ce-le.md)
