@@ -159,3 +159,4 @@
     * [3.6.3. 策略迭代](di-san-zhang-ji-qi-ren-xi-chen-qi/3.6.-xue-hui-yi-zui-jia-fang-shi-xing-shi/3.6.3.-ce-le-die-dai.md)
     * [3.6.4. 值迭代](di-san-zhang-ji-qi-ren-xi-chen-qi/3.6.-xue-hui-yi-zui-jia-fang-shi-xing-shi/3.6.4.-zhi-die-dai/README.md)
       * [3.6.4.1. 练习](di-san-zhang-ji-qi-ren-xi-chen-qi/3.6.-xue-hui-yi-zui-jia-fang-shi-xing-shi/3.6.4.-zhi-die-dai/3.6.4.1.-lian-xi.md)
+    * [3.6.5. 基于模型的强化学习](di-san-zhang-ji-qi-ren-xi-chen-qi/3.6.-xue-hui-yi-zui-jia-fang-shi-xing-shi/3.6.5.-ji-yu-mo-xing-de-qiang-hua-xue-xi.md)
