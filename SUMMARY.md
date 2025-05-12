@@ -178,4 +178,5 @@
     * [4.1.6. GTbook 101](di-si-zhang-2d-cang-ku-ji-qi-ren/4.1.-lian-xu-zhuang-tai/4.1.6.-gtbook-101.md)
   * [4.2. 在 2D 中移动](di-si-zhang-2d-cang-ku-ji-qi-ren/4.2.-zai-2d-zhong-yi-dong.md)
     * [4.2.1. 全向轮](di-si-zhang-2d-cang-ku-ji-qi-ren/4.2.-zai-2d-zhong-yi-dong/4.2.1.-quan-xiang-lun.md)
-    * [Omni Wheels 的运动学](di-si-zhang-2d-cang-ku-ji-qi-ren/4.2.-zai-2d-zhong-yi-dong/omni-wheels-de-yun-dong-xue.md)
+    * [4.2.2.Omni Wheels 的运动学](di-si-zhang-2d-cang-ku-ji-qi-ren/4.2.-zai-2d-zhong-yi-dong/4.2.2.omni-wheels-de-yun-dong-xue.md)
+    * [4.2.3. 雅可比矩阵](di-si-zhang-2d-cang-ku-ji-qi-ren/4.2.-zai-2d-zhong-yi-dong/4.2.3.-ya-ke-bi-ju-zhen.md)
