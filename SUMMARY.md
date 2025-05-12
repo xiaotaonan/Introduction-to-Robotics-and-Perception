@@ -171,3 +171,4 @@
 * [第四章 2D 仓库机器人](di-si-zhang-2d-cang-ku-ji-qi-ren.md)
   * [4.1. 连续状态](di-si-zhang-2d-cang-ku-ji-qi-ren/4.1.-lian-xu-zhuang-tai.md)
   * [4.1.1. 高斯密度](di-si-zhang-2d-cang-ku-ji-qi-ren/4.1.1.-gao-si-mi-du.md)
+  * [4.1.2. 有限元法](di-si-zhang-2d-cang-ku-ji-qi-ren/4.1.2.-you-xian-yuan-fa.md)
