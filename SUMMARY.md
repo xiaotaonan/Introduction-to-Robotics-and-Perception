@@ -163,3 +163,4 @@
     * [3.6.6. 无模型强化学习](di-san-zhang-ji-qi-ren-xi-chen-qi/3.6.-xue-hui-yi-zui-jia-fang-shi-xing-shi/3.6.6.-wu-mo-xing-qiang-hua-xue-xi/README.md)
       * [3.6.6.1. 勘探与开发](di-san-zhang-ji-qi-ren-xi-chen-qi/3.6.-xue-hui-yi-zui-jia-fang-shi-xing-shi/3.6.6.-wu-mo-xing-qiang-hua-xue-xi/3.6.6.1.-kan-tan-yu-kai-fa.md)
       * [3.6.6.2. 练习](di-san-zhang-ji-qi-ren-xi-chen-qi/3.6.-xue-hui-yi-zui-jia-fang-shi-xing-shi/3.6.6.-wu-mo-xing-qiang-hua-xue-xi/3.6.6.2.-lian-xi.md)
+    * [3.6.7. 小结](di-san-zhang-ji-qi-ren-xi-chen-qi/3.6.-xue-hui-yi-zui-jia-fang-shi-xing-shi/3.6.7.-xiao-jie.md)
