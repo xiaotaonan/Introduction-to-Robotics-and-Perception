@@ -38,4 +38,4 @@ position_hints = {'u': 2, 'x': 1}
 show(gaussianBayesNet, hints=position_hints, boxes=set(list(u.values())))
 ```
 
-<figure><img src="../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>

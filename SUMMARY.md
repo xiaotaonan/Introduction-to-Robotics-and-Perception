@@ -182,4 +182,5 @@
     * [4.2.3. 雅可比矩阵](di-si-zhang-2d-cang-ku-ji-qi-ren/4.2.-zai-2d-zhong-yi-dong/4.2.3.-ya-ke-bi-ju-zhen.md)
     * [4.2.4. 全向运动实践](di-si-zhang-2d-cang-ku-ji-qi-ren/4.2.-zai-2d-zhong-yi-dong/4.2.4.-quan-xiang-yun-dong-shi-jian.md)
     * [4.2.5. 高斯动态贝叶斯网络](di-si-zhang-2d-cang-ku-ji-qi-ren/4.2.-zai-2d-zhong-yi-dong/4.2.5.-gao-si-dong-tai-bei-ye-si-wang-luo.md)
-    * [4.2.6. 代码中的高斯 DBN](di-si-zhang-2d-cang-ku-ji-qi-ren/4.2.-zai-2d-zhong-yi-dong/4.2.6.-dai-ma-zhong-de-gao-si-dbn.md)
+    * [4.2.6. 代码中的高斯 DBN](di-si-zhang-2d-cang-ku-ji-qi-ren/4.2.-zai-2d-zhong-yi-dong/4.2.6.-dai-ma-zhong-de-gao-si-dbn/README.md)
+      * [4.2.6.1. 练习](di-si-zhang-2d-cang-ku-ji-qi-ren/4.2.-zai-2d-zhong-yi-dong/4.2.6.-dai-ma-zhong-de-gao-si-dbn/4.2.6.1.-lian-xi.md)
