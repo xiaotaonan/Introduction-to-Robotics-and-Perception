@@ -166,3 +166,4 @@
     * [3.6.7. 小结](di-san-zhang-ji-qi-ren-xi-chen-qi/3.6.-xue-hui-yi-zui-jia-fang-shi-xing-shi/3.6.7.-xiao-jie.md)
   * [3.7. 章节总结](di-san-zhang-ji-qi-ren-xi-chen-qi/3.7.-zhang-jie-zong-jie/README.md)
     * [3.7.1. 模型](di-san-zhang-ji-qi-ren-xi-chen-qi/3.7.-zhang-jie-zong-jie/3.7.1.-mo-xing.md)
+    * [3.7.2. 推理](di-san-zhang-ji-qi-ren-xi-chen-qi/3.7.-zhang-jie-zong-jie/3.7.2.-tui-li.md)
