@@ -1,0 +1,97 @@
+# Omni Wheels 的运动学
+
+> 将机器人速度与车轮速度相关联。
+
+运动学是对运动的研究，不考虑引起运动所需的力。特别是，对于我们的全向机器人，运动学解决了“假设我们希望机器人以一定的速度移动，单个轮子的速度应该是多少？
+
+全向轮的关键特性是它们在转向方向上滚动而不会打滑，而是在垂直方向（有时称为打滑方向）上自由滚动。在图 3 中，这些方向对应于单位向量$$u_|$$（转向方向） 和$$u_\perp$$（滑移方向）。这些向量定义了机器人运动的正交分解。轮式致动器直接产生沿 方向$$u_|$$的运动，机器人沿 $$u_\perp$$方向自由移动。
+
+<figure><img src="../../.gitbook/assets/image (30).png" alt=""><figcaption><p>图2 单个全向轮的正交坐标系。</p></figcaption></figure>
+
+向量$$u_|$$和$$u_\perp$$是在机器人的局部坐标系中定义的，但由于我们的机器人不旋转，我们可以直接在世界坐标系中定义它们。让我们$$\theta$$表示从世界$$x$$轴到轮子轴轴的角度。向量$$u_|$$\
+和$$u_\perp$$由下式给出
+
+$$
+\begin{equation}
+u_\| =\left[ \begin{array}{c} -\sin \theta \\ \cos \theta \end{array}\right]
+\;\;\;\;\;\;\; \rm{and} \;\;\;\;\;\;\;
+u_\perp =\left[ \begin{array}{c} \cos \theta \\ \sin \theta \end{array}\right]
+\end{equation}
+$$
+
+当对象以纯平移运动 （即没有旋转） 移动时，对象上的每个点都以相同的速度移动。假设机器人，以及这个特定的轮子，以平移速度$$v=(v_x, v_y)$$移动，如图 4 所示。我们可以通过投影$$v$$到矢量$$u_|$$和$$u_\perp$$上，将速度$$v$$分解为平行和垂直于转向方向的分量。
+
+<figure><img src="../../.gitbook/assets/image (31).png" alt=""><figcaption><p>图3 车轮速度 v.</p></figcaption></figure>
+
+特别是，我们可以编写
+
+$$
+\begin{equation}
+\begin{aligned}
+v &= (v \cdot u_\| )u_\| + (v \cdot u_\perp) u_\perp \\
+&=
+(- v_x \sin \theta + v_y \cos \theta) u_\|
++
+(v_x \cos \theta + v_y \sin \theta) u_\perp \\
+&= v_{\parallel}u_\| +  v_{\perp}u_\perp\\
+\end{aligned}
+\end{equation}
+$$
+
+这样得到
+
+$$
+\begin{equation}
+\begin{aligned}
+v^i_{\parallel} &= - v_x \sin \theta^i + v_y \cos \theta^i \\
+v^i_{\perp} &= v_x \cos \theta^i + v_y \sin \theta^i
+\end{aligned}
+\end{equation}
+$$
+
+请注意，在上面的方程中，表示法中可能存在一些混淆：$$u_|$$和$$u_\perp$$是表示运动方向的单位向量，而$$v_{\parallel}$$和$$v_{\perp}$$是标量（分别是单位向量$$u_|$$和$$u_\perp$$方向上的速度）。
+
+在代码中：
+
+```python
+def wheel_velocity(vx:float, vy:float, i:int):
+    """Calculate parallel and perpendicular velocities at wheel i"""
+    _, _, theta = wheel_pose(i)
+    para = - vx * np.sin(theta) + vy * np.cos(theta)
+    perp =   vx * np.cos(theta) + vy * np.sin(theta)
+    return para, perp
+```
+
+在图 5 中，我们使用它来显示所需速度（蓝色）如何以图形方式转换为车轮位置的平行（紫色）和垂直（绿色）速度分量。
+
+```python
+#| caption: Velocity decomposition for the omni wheels.
+#| label: fig:omni_wheel_velocity
+vx, vy = 0.3, 0.1 # change these !
+
+fig, ax = plt.subplots(figsize=(12,8))
+
+circle = Circle((0, 0), R, alpha=0.4)
+ax.add_artist(circle)
+
+wheels = []
+for i in range(3):
+    px, py, theta = wheel_pose(i)
+    wheel = Rectangle((-w/2, -r), w, 2*r)
+    wheel.set_transform(Affine2D().rotate(theta).translate(px, py))
+    wheels.append(wheel)
+ax.add_collection(PatchCollection(wheels))
+
+
+plt.arrow(0, 0, vx, vy, head_width=0.05, color="dodgerblue")
+for i in range(3):
+    px, py, theta = wheel_pose(i)
+    para, perp = wheel_velocity(vx, vy, i)
+    plt.arrow(px, py, vx, vy, head_width=0.05, color="dodgerblue")
+    plt.arrow(px, py, np.cos(theta)*perp, np.sin(theta)*perp, head_width=0.05, color="yellowgreen")
+    plt.arrow(px, py, -np.sin(theta)*para, np.cos(theta)*para, head_width=0.05, color="purple")
+
+ax.axis('equal'); plt.show()
+```
+
+<figure><img src="../../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
