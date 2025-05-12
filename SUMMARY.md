@@ -176,4 +176,5 @@
     * [4.1.4. 计算概率](di-si-zhang-2d-cang-ku-ji-qi-ren/4.1.-lian-xu-zhuang-tai/4.1.4.-ji-suan-gai-l.md)
     * [4.1.5. GTSAM 101](di-si-zhang-2d-cang-ku-ji-qi-ren/4.1.-lian-xu-zhuang-tai/4.1.5.-gtsam-101.md)
     * [4.1.6. GTbook 101](di-si-zhang-2d-cang-ku-ji-qi-ren/4.1.-lian-xu-zhuang-tai/4.1.6.-gtbook-101.md)
-  * [4.2. 在 2D 中移动](di-si-zhang-2d-cang-ku-ji-qi-ren/4.2.-zai-2d-zhong-yi-dong.md)
+  * [4.2. 在 2D 中移动](di-si-zhang-2d-cang-ku-ji-qi-ren/4.2.-zai-2d-zhong-yi-dong/README.md)
+    * [4.2.1. 全向轮](di-si-zhang-2d-cang-ku-ji-qi-ren/4.2.-zai-2d-zhong-yi-dong/4.2.1.-quan-xiang-lun.md)
