@@ -185,3 +185,4 @@
     * [4.2.6. 代码中的高斯 DBN](di-si-zhang-2d-cang-ku-ji-qi-ren/4.2.-zai-2d-zhong-yi-dong/4.2.6.-dai-ma-zhong-de-gao-si-dbn/README.md)
       * [4.2.6.1. 练习](di-si-zhang-2d-cang-ku-ji-qi-ren/4.2.-zai-2d-zhong-yi-dong/4.2.6.-dai-ma-zhong-de-gao-si-dbn/4.2.6.1.-lian-xi.md)
     * [4.2.7. 模拟 ContinuousTrajectory](di-si-zhang-2d-cang-ku-ji-qi-ren/4.2.-zai-2d-zhong-yi-dong/4.2.7.-mo-ni-continuoustrajectory.md)
+    * [4.2.8. GTSAM 101](di-si-zhang-2d-cang-ku-ji-qi-ren/4.2.-zai-2d-zhong-yi-dong/4.2.8.-gtsam-101.md)
