@@ -157,3 +157,4 @@
     * [3.6.2.操作值和最优策略](di-san-zhang-ji-qi-ren-xi-chen-qi/3.6.-xue-hui-yi-zui-jia-fang-shi-xing-shi/3.6.2.-cao-zuo-zhi-he-zui-you-ce-le.md)
       * [3.6.2.1. 练习](di-san-zhang-ji-qi-ren-xi-chen-qi/3.6.-xue-hui-yi-zui-jia-fang-shi-xing-shi/3.6.2.-cao-zuo-zhi-he-zui-you-ce-le/3.6.2.1.-lian-xi.md)
     * [3.6.3. 策略迭代](di-san-zhang-ji-qi-ren-xi-chen-qi/3.6.-xue-hui-yi-zui-jia-fang-shi-xing-shi/3.6.3.-ce-le-die-dai.md)
+    * [3.6.4. 值迭代](di-san-zhang-ji-qi-ren-xi-chen-qi/3.6.-xue-hui-yi-zui-jia-fang-shi-xing-shi/3.6.4.-zhi-die-dai.md)
