@@ -154,4 +154,5 @@
     * [3.5.9. 小结](di-san-zhang-ji-qi-ren-xi-chen-qi/3.5.-ma-er-ke-fu-jue-ce-guo-cheng/3.5.9.-xiao-jie.md)
   * [3.6. 学会以最佳方式行事](di-san-zhang-ji-qi-ren-xi-chen-qi/3.6.-xue-hui-yi-zui-jia-fang-shi-xing-shi/README.md)
     * [3.6.1. 最优值函数](di-san-zhang-ji-qi-ren-xi-chen-qi/3.6.-xue-hui-yi-zui-jia-fang-shi-xing-shi/3.6.1.-zui-you-zhi-han-shu.md)
-    * [3.6.2.操作值和最优策略](di-san-zhang-ji-qi-ren-xi-chen-qi/3.6.-xue-hui-yi-zui-jia-fang-shi-xing-shi/3.6.2.-cao-zuo-zhi-he-zui-you-ce-le.md)
+    * [3.6.2.操作值和最优策略](di-san-zhang-ji-qi-ren-xi-chen-qi/3.6.-xue-hui-yi-zui-jia-fang-shi-xing-shi/3.6.2.-cao-zuo-zhi-he-zui-you-ce-le/README.md)
+      * [3.6.2.1. 练习](di-san-zhang-ji-qi-ren-xi-chen-qi/3.6.-xue-hui-yi-zui-jia-fang-shi-xing-shi/3.6.2.-cao-zuo-zhi-he-zui-you-ce-le/3.6.2.1.-lian-xi.md)
