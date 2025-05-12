@@ -180,3 +180,4 @@
     * [4.2.1. 全向轮](di-si-zhang-2d-cang-ku-ji-qi-ren/4.2.-zai-2d-zhong-yi-dong/4.2.1.-quan-xiang-lun.md)
     * [4.2.2.Omni Wheels 的运动学](di-si-zhang-2d-cang-ku-ji-qi-ren/4.2.-zai-2d-zhong-yi-dong/4.2.2.omni-wheels-de-yun-dong-xue.md)
     * [4.2.3. 雅可比矩阵](di-si-zhang-2d-cang-ku-ji-qi-ren/4.2.-zai-2d-zhong-yi-dong/4.2.3.-ya-ke-bi-ju-zhen.md)
+    * [4.2.4. 全向运动实践](di-si-zhang-2d-cang-ku-ji-qi-ren/4.2.-zai-2d-zhong-yi-dong/4.2.4.-quan-xiang-yun-dong-shi-jian.md)
