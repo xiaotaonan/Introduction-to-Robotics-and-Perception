@@ -31,6 +31,6 @@ base_map.shape: (50, 100)
 logistics.show_map(base_map)
 ```
 
-<figure><img src="../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
 
 在本节的其余部分，我们将展示如何使用这个地图来模拟我们上面列出的三个传感器。
