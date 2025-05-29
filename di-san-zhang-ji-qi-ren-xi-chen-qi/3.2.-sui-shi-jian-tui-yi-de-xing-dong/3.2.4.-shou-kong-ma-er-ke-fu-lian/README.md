@@ -27,7 +27,7 @@ for k in range(1, N):
 show(markov_chain, hints={"X":1})
 ```
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 此图中的每个节点都表示一个随机变量，因此每个节点都具有关联的概率分布。如果我们知道 初始状态$$X_1$$的分布，我们就可以 通过评估与图中有向边关联的条件分布，递归计算 all $$k >1$$的状态$$X_k$$分布。
 
@@ -46,7 +46,7 @@ fragment.add(motion_model)
 show(fragment, hints={"A": 2, "X": 1}, boxes={A[1][0], X[1][0]})
 ```
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 通过应用上面的信念转换方程，我们可以计算 的后验概率$$P(X_2|a_1)$$，$$X_2$$因为动作$$a_1$$\
 和初始状态$$x_1$$都是完全已知的。给定父变量$$A_1$$和$$X_1$$的值，我们可以检查相应的转换概率。
