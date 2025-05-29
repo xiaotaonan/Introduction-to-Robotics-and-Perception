@@ -197,3 +197,4 @@
   * [4.4. 定位](di-si-zhang-2d-cang-ku-ji-qi-ren/4.4.-ding-wei/README.md)
     * [4.4.1. 一个运行示例](di-si-zhang-2d-cang-ku-ji-qi-ren/4.4.-ding-wei/4.4.1.-yi-ge-yun-xing-shi-li.md)
     * [4.4.2. 贝叶斯滤波器](di-si-zhang-2d-cang-ku-ji-qi-ren/4.4.-ding-wei/4.4.2.-bei-ye-silbo-qi.md)
+    * [4.4.3. 马尔可夫定位](di-si-zhang-2d-cang-ku-ji-qi-ren/4.4.-ding-wei/4.4.3.-ma-er-ke-fu-ding-wei.md)
