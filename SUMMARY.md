@@ -199,3 +199,4 @@
     * [4.4.2. 贝叶斯滤波器](di-si-zhang-2d-cang-ku-ji-qi-ren/4.4.-ding-wei/4.4.2.-bei-ye-silbo-qi.md)
     * [4.4.3. 马尔可夫定位](di-si-zhang-2d-cang-ku-ji-qi-ren/4.4.-ding-wei/4.4.3.-ma-er-ke-fu-ding-wei/README.md)
       * [4.4.3.1. 一个一维示例](di-si-zhang-2d-cang-ku-ji-qi-ren/4.4.-ding-wei/4.4.3.-ma-er-ke-fu-ding-wei/4.4.3.1.-yi-ge-yi-wei-shi-li.md)
+      * [4.4.3.2. 仓库示例](di-si-zhang-2d-cang-ku-ji-qi-ren/4.4.-ding-wei/4.4.3.-ma-er-ke-fu-ding-wei/4.4.3.2.-cang-ku-shi-li.md)
