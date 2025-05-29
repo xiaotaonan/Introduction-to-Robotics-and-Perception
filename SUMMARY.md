@@ -194,3 +194,4 @@
     * [4.3.5. 模拟状态和测量](di-si-zhang-2d-cang-ku-ji-qi-ren/4.3.-ju-you-lian-xu-zhuang-tai-de-chuan-gan-qi-mo-xing/4.3.5.-mo-ni-zhuang-tai-he-ce-liang.md)
     * [4.3.6. GPS 风格的似然函数](di-si-zhang-2d-cang-ku-ji-qi-ren/4.3.-ju-you-lian-xu-zhuang-tai-de-chuan-gan-qi-mo-xing/4.3.6.-gps-feng-ge-de-si-ran-han-shu.md)
     * [4.3.7. GTbook 101](di-si-zhang-2d-cang-ku-ji-qi-ren/4.3.-ju-you-lian-xu-zhuang-tai-de-chuan-gan-qi-mo-xing/4.3.7.-gtbook-101.md)
+  * [4.4. 定位](di-si-zhang-2d-cang-ku-ji-qi-ren/4.4.-ding-wei.md)
