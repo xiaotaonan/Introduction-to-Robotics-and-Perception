@@ -208,3 +208,4 @@
     * [4.4.5. 卡尔曼平滑和滤波](di-si-zhang-2d-cang-ku-ji-qi-ren/4.4.-ding-wei/4.4.5.-ka-er-man-ping-hua-helbo/README.md)
       * [4.4.5.1. 因子图和最小二乘](di-si-zhang-2d-cang-ku-ji-qi-ren/4.4.-ding-wei/4.4.5.-ka-er-man-ping-hua-helbo/4.4.5.1.-yin-zi-tu-he-zui-xiao-er-cheng.md)
       * [4.4.5.2. 数值示例](di-si-zhang-2d-cang-ku-ji-qi-ren/4.4.-ding-wei/4.4.5.-ka-er-man-ping-hua-helbo/4.4.5.2.-shu-zhi-shi-li.md)
+      * [4.4.5.3. 练习](di-si-zhang-2d-cang-ku-ji-qi-ren/4.4.-ding-wei/4.4.5.-ka-er-man-ping-hua-helbo/4.4.5.3.-lian-xi.md)
