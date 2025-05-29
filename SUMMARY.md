@@ -196,3 +196,4 @@
     * [4.3.7. GTbook 101](di-si-zhang-2d-cang-ku-ji-qi-ren/4.3.-ju-you-lian-xu-zhuang-tai-de-chuan-gan-qi-mo-xing/4.3.7.-gtbook-101.md)
   * [4.4. 定位](di-si-zhang-2d-cang-ku-ji-qi-ren/4.4.-ding-wei/README.md)
     * [4.4.1. 一个运行示例](di-si-zhang-2d-cang-ku-ji-qi-ren/4.4.-ding-wei/4.4.1.-yi-ge-yun-xing-shi-li.md)
+    * [4.4.2. 贝叶斯滤波器](di-si-zhang-2d-cang-ku-ji-qi-ren/4.4.-ding-wei/4.4.2.-bei-ye-silbo-qi.md)
