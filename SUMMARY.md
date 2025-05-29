@@ -209,3 +209,4 @@
       * [4.4.5.1. 因子图和最小二乘](di-si-zhang-2d-cang-ku-ji-qi-ren/4.4.-ding-wei/4.4.5.-ka-er-man-ping-hua-helbo/4.4.5.1.-yin-zi-tu-he-zui-xiao-er-cheng.md)
       * [4.4.5.2. 数值示例](di-si-zhang-2d-cang-ku-ji-qi-ren/4.4.-ding-wei/4.4.5.-ka-er-man-ping-hua-helbo/4.4.5.2.-shu-zhi-shi-li.md)
       * [4.4.5.3. 练习](di-si-zhang-2d-cang-ku-ji-qi-ren/4.4.-ding-wei/4.4.5.-ka-er-man-ping-hua-helbo/4.4.5.3.-lian-xi.md)
+      * [4.4.5.4. 稀疏最小二乘法](di-si-zhang-2d-cang-ku-ji-qi-ren/4.4.-ding-wei/4.4.5.-ka-er-man-ping-hua-helbo/4.4.5.4.-xi-shu-zui-xiao-er-cheng-fa.md)
