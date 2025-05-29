@@ -191,3 +191,4 @@
     * [4.3.2. 雷达传感器](di-si-zhang-2d-cang-ku-ji-qi-ren/4.3.-ju-you-lian-xu-zhuang-tai-de-chuan-gan-qi-mo-xing/4.3.2.-lei-da-chuan-gan-qi.md)
     * [4.3.3. 感知范围内无信标的情况](di-si-zhang-2d-cang-ku-ji-qi-ren/4.3.-ju-you-lian-xu-zhuang-tai-de-chuan-gan-qi-mo-xing/4.3.3.-gan-zhi-fan-wei-nei-wu-xin-biao-di-qing-kuang.md)
     * [4.3.4. 类似 GPS 的位置传感器](di-si-zhang-2d-cang-ku-ji-qi-ren/4.3.-ju-you-lian-xu-zhuang-tai-de-chuan-gan-qi-mo-xing/4.3.4.-lei-si-gps-de-wei-zhi-chuan-gan-qi.md)
+    * [4.3.5. 模拟状态和测量](di-si-zhang-2d-cang-ku-ji-qi-ren/4.3.-ju-you-lian-xu-zhuang-tai-de-chuan-gan-qi-mo-xing/4.3.5.-mo-ni-zhuang-tai-he-ce-liang.md)
